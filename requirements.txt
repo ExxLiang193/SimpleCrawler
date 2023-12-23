@@ -1,0 +1,6 @@
+instaloader
+numpy
+Pillow
+torch
+torchvision
+Flask
